@@ -47,6 +47,9 @@ button:hover{border-color:var(--accent)}
 .date{background:var(--chip);border-radius:8px;padding:4px 9px;font-size:12px}
 .date b{font-family:'JetBrains Mono',monospace;font-weight:500;margin-right:6px}
 .date.past{opacity:.45}
+.takeaways{margin-bottom:16px;border-left:3px solid var(--accent)}
+.takeaways ul{margin:0;padding-left:18px;display:grid;gap:7px;font-size:15px}
+.takeaways b{font-weight:600}
 .hl{list-style:none;margin:0;padding:0}
 .hl li{display:flex;gap:10px;padding:8px 0;border-bottom:1px solid var(--line);align-items:flex-start}
 .hl li:last-child{border:0}
@@ -101,6 +104,8 @@ footer{margin-top:30px;color:var(--muted);font-size:12px;text-align:center}
       <span class="status" id="status">Loading…</span>
     </div>
   </header>
+
+  <div class="panel takeaways" id="takeaways" hidden></div>
 
   <div class="grid2">
     <div class="panel brief" id="brief"><div class="skel"></div></div>
@@ -160,6 +165,12 @@ async function loadBrief() {
   try {
     const b = await (await fetch('/brief.json', { cache: 'no-store' })).json();
     const today = new Date().toISOString().slice(0, 10);
+    if (b.takeaways && b.takeaways.length) {
+      $('#takeaways').innerHTML = `
+        <h2>Today's takeaways <span class="sub">${esc(b.date)}</span></h2>
+        <ul>${b.takeaways.map(t => `<li><b>${esc(t.lead)}</b> ${esc(t.text)}</li>`).join('')}</ul>`;
+      $('#takeaways').hidden = false;
+    }
     $('#brief').innerHTML = `
       <h2>Analyst brief <span class="sub">${esc(b.date)}</span></h2>
       <h3>${esc(b.headline)}</h3><p class="sum">${esc(b.summary)}</p>

@@ -2,11 +2,33 @@
   "date": "2026-10-15",
   "headline": "An oil shock with a Fed that's still raising rates",
   "summary": "Inflation is mostly coming from energy: October headline CPI is priced around 3.7%, while core CPI (no food or energy) is around 2.6%. Markets still give an 80% chance of a Fed rate hike in December. Strait of Hormuz traffic is not expected to return to normal in 2026, and the Israel–Iran ceasefire is losing support week by week.",
+  "takeaways": [
+    {
+      "lead": "Oil keeps climbing.",
+      "text": "WTI hitting $100 this month is now 70%, up 24 pts in a day and 37 pts this week. A drop to $85 is down to 18%."
+    },
+    {
+      "lead": "Big money is betting Hormuz stays shut.",
+      "text": "One trader put $127k on traffic NOT returning to normal by Oct 31, and about $265k of large bets went on Hormuz markets in a day. The average number of ships through Hormuz at the end of October is 90% likely to be 0–5 (thin $24k market)."
+    },
+    {
+      "lead": "Brazil is getting tighter.",
+      "text": "Lula is up 8 pts today to 22.5%, with about $120k of large bets on him. 'Bolsonaro wins by under 4%' is now the most likely result at 41.5%."
+    },
+    {
+      "lead": "Le Pen keeps rising.",
+      "text": "About $70k of large bets traded both ways on her winning France in 2027. She's at 47%, up 3 pts today."
+    },
+    {
+      "lead": "Cuba is easy to overlook.",
+      "text": "US Cuba oil sanction relief by year-end: 54.5% (up 10 pts this week). Thin market ($47k), but it could matter for oil supply."
+    }
+  ],
   "sections": [
     {
       "title": "Trading signals",
       "bullets": [
-        "WTI oil reaching $100 in October: 66.5% (up 16.5 pts today, up 30 this week). The bet on a drop to $85 collapsed to 19% (down 38 this week).",
+        "WTI oil reaching $100 in October: 70% (up 24 pts today, up 37 this week). The bet on a drop to $85 collapsed to 18% (down 42 this week).",
         "Military action against Saudi Arabia's East-West pipeline (the main route around Hormuz) by Nov 30: 57.5%. It's a small market, so treat it as an early warning, not a consensus.",
         "Odds that the 10-year Treasury yield reaches 5.4% fell from ~66% to 26.5% in a week, so markets may see yields peaking even as the Fed raises.",
         "Apple overtaking Nvidia as the largest company at year-end: 33% (up 21 pts this week). Odds of a new Apple product line before 2027: 90%.",
@@ -40,11 +62,29 @@
     }
   ],
   "dates": [
-    { "date": "2026-10-25", "label": "Brazil presidential runoff" },
-    { "date": "2026-10-27", "label": "Israel election" },
-    { "date": "2026-10-29", "label": "Fed decision" },
-    { "date": "2026-11-03", "label": "US midterms" },
-    { "date": "2026-11-11", "label": "US CPI (October)" },
-    { "date": "2026-12-10", "label": "Fed decision" }
+    {
+      "date": "2026-10-25",
+      "label": "Brazil presidential runoff"
+    },
+    {
+      "date": "2026-10-27",
+      "label": "Israel election"
+    },
+    {
+      "date": "2026-10-29",
+      "label": "Fed decision"
+    },
+    {
+      "date": "2026-11-03",
+      "label": "US midterms"
+    },
+    {
+      "date": "2026-11-11",
+      "label": "US CPI (October)"
+    },
+    {
+      "date": "2026-12-10",
+      "label": "Fed decision"
+    }
   ]
 }
