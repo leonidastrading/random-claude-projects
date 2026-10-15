@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-15",
+  "headline": "An oil shock with a Fed that's still raising rates",
+  "summary": "Inflation is mostly coming from energy: October headline CPI is priced around 3.7%, while core CPI (no food or energy) is around 2.6%. Markets still give an 80% chance of a Fed rate hike in December. Strait of Hormuz traffic is not expected to return to normal in 2026, and the Israel–Iran ceasefire is losing support week by week.",
+  "sections": [
+    {
+      "title": "Trading signals",
+      "bullets": [
+        "WTI oil reaching $100 in October: 62% (up 26 pts this week). The bet on a drop to $85 collapsed to 20%.",
+        "Military action against Saudi Arabia's East-West pipeline (the main route around Hormuz) by Nov 30: 57.5%. It's a small market, so treat it as an early warning, not a consensus.",
+        "Odds that the 10-year Treasury yield reaches 5.4% fell from ~66% to 26.5% in a week, so markets may see yields peaking even as the Fed raises.",
+        "Apple overtaking Nvidia as the largest company at year-end: 33% (up 21 pts this week). Odds of a new Apple product line before 2027: 90%.",
+        "State bans on new data centers (Indiana traded $2M in one day, plus OH, TX, OK, MO, LA) are a political risk for AI power and utility stocks."
+      ]
+    },
+    {
+      "title": "Wars & geopolitics",
+      "bullets": [
+        "Israel–Iran ceasefire holding through Dec 31: 50% (down 10 pts this week, down 14 this month).",
+        "US invades Iran before 2027: 16.5%. NATO–Russia military clash by year-end: 25.5%.",
+        "Russia–Ukraine peace talks by Oct 31 fell 19 pts to ~10%.",
+        "Houthis take Aden by year-end: 25.5%. Bab el-Mandeb (Red Sea entrance) closed: 15.5%."
+      ]
+    },
+    {
+      "title": "Elections that move markets",
+      "bullets": [
+        "Brazil runoff (Oct 25): Flávio Bolsonaro 75%, but Lula gained 10 pts in one day. The margin market's most likely outcome is a race decided by under 4 points. Watch the Brazilian real, the Ibovespa and the EWZ fund.",
+        "Israel (~Oct 27): Eizenkot 49% to be prime minister, Netanyahu 27.5% and falling.",
+        "US midterms (Nov 3): Democrats take the House 90%, Democrats take both chambers 62.5%."
+      ]
+    },
+    {
+      "title": "Everyday life",
+      "bullets": [
+        "US gas is around $4.30–4.50, with even odds of hitting $4.50 by the end of October.",
+        "The US economy is priced as 'overheating' at year-end (74%), with recession odds only 7.5%.",
+        "US measles cases above 6,000 this year: 76%."
+      ]
+    }
+  ],
+  "dates": [
+    { "date": "2026-10-25", "label": "Brazil presidential runoff" },
+    { "date": "2026-10-27", "label": "Israel election" },
+    { "date": "2026-10-29", "label": "Fed decision" },
+    { "date": "2026-11-03", "label": "US midterms" },
+    { "date": "2026-11-11", "label": "US CPI (October)" },
+    { "date": "2026-12-10", "label": "Fed decision" }
+  ]
+}
