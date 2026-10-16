@@ -1,90 +1,83 @@
 {
-  "date": "2026-10-15",
-  "headline": "An oil shock with a Fed that's still raising rates",
-  "summary": "Inflation is mostly coming from energy: October headline CPI is priced around 3.7%, while core CPI (no food or energy) is around 2.6%. Markets still give an 80% chance of a Fed rate hike in December. Strait of Hormuz traffic is not expected to return to normal in 2026, and the Israel–Iran ceasefire is losing support week by week.",
+  "date": "2026-10-16",
+  "headline": "The Fed is expected to hold in October; oil is still near $100",
+  "summary": "Overnight, traders dropped bets on an October Fed rate hike (now 13.5%, down 14 pts) but still expect one in December (78.5%). Oil eased from last night's peak but is still pricing a strong chance of $100. Large bets went on the US–Iran ceasefire holding, diplomacy over Ukraine is fading fast, and money is moving from Anthropic to SpaceX in the IPO race.",
   "takeaways": [
     {
-      "lead": "Oil keeps climbing.",
-      "text": "WTI hitting $100 this month is now 70%, up 24 pts in a day and 37 pts this week. A drop to $85 is down to 18%."
+      "lead": "The Fed is now expected to hold in October.",
+      "text": "No change at the Oct 29 meeting is 86.5%, up 15 pts in a day ($43M market). Large traders added about $57k to 'no change'. A December hike is still 78.5%, so this is a delay, not a turn toward cuts."
     },
     {
-      "lead": "Big money is betting Hormuz stays shut.",
-      "text": "One trader put $127k on traffic NOT returning to normal by Oct 31, and about $265k of large bets went on Hormuz markets in a day. The average number of ships through Hormuz at the end of October is 90% likely to be 0–5 (thin $24k market)."
+      "lead": "Oil cooled off a bit, but $100 is still the base case.",
+      "text": "WTI hitting $100 this month is 62%, down from 70% last night but still up 18 pts on the day. Military action against the Saudi East-West pipeline by Oct 31 fell 10 pts to 28.5% (thin $126k market)."
     },
     {
-      "lead": "Brazil is getting tighter.",
-      "text": "Lula is up 8 pts today to 22.5%, with about $120k of large bets on him. 'Bolsonaro wins by under 4%' is now the most likely result at 41.5%."
+      "lead": "Large bets say the ceasefire holds for now.",
+      "text": "About $100k of large bets went on the US–Iran ceasefire lasting through Oct 16, Oct 31 and beyond. Through Oct 18 rose 6 pts to 96%, and through the Nov 3 midterms is 77.5%. The blockade stays, though: it ending by Oct 31 is only 5.5%."
     },
     {
-      "lead": "Le Pen keeps rising.",
-      "text": "About $70k of large bets traded both ways on her winning France in 2027. She's at 47%, up 3 pts today."
+      "lead": "SpaceX is overtaking Anthropic in the IPO race.",
+      "text": "SpaceX as 2026's largest IPO is 64%, up 13 pts today and 21 this week. Anthropic fell 9 pts to 37%. Musk momentum is spilling over: a new market on the Tesla Roadster doing 0–60 mph in under 1 second jumped 76 pts to 95.5%, and about $190k of large bets went on the Roadster 'flying'."
     },
     {
-      "lead": "Cuba is easy to overlook.",
-      "text": "US Cuba oil sanction relief by year-end: 54.5% (up 10 pts this week). Thin market ($47k), but it could matter for oil supply."
+      "lead": "Netanyahu's party is sliding before the Oct 27 vote.",
+      "text": "Likud winning the most seats is down to 31.5% (down 19 pts this week). Yashar is at 67.5%. Eizenkot is the favorite for prime minister at 47%, and Netanyahu is at 30.5%."
+    },
+    {
+      "lead": "Golf: a LIV shutdown is now a coin flip.",
+      "text": "LIV Golf announcing a shutdown in 2026 jumped 14 pts today to 48%. It's a thin market ($77k), so treat it as a rumor signal, not a fact."
     }
   ],
   "sections": [
     {
+      "title": "What's new today",
+      "bullets": [
+        "October US inflation (CPI) at 3.7% year-over-year is now 88.5% likely (up 32 pts; thin $12k market). The report is out Nov 11.",
+        "Hopes for Russia–Ukraine peace talks are fading fast: talks by Dec 31 fell 24 pts this week to 39%, and by Nov 30 fell 24 pts to 24.5%.",
+        "Press Secretary Katie Zacharia out by year-end: 38.5% (up 12 pts in a day; new $332k market)."
+      ]
+    },
+    {
       "title": "Trading signals",
       "bullets": [
-        "WTI oil reaching $100 in October: 70% (up 24 pts today, up 37 this week). The bet on a drop to $85 collapsed to 18% (down 42 this week).",
-        "Military action against Saudi Arabia's East-West pipeline (the main route around Hormuz) by Nov 30: 57.5%. It's a small market, so treat it as an early warning, not a consensus.",
-        "Odds that the 10-year Treasury yield reaches 5.4% fell from ~66% to 26.5% in a week, so markets may see yields peaking even as the Fed raises.",
-        "Apple overtaking Nvidia as the largest company at year-end: 33% (up 21 pts this week). Odds of a new Apple product line before 2027: 90%.",
-        "State bans on new data centers (Indiana traded $2M in one day, plus OH, TX, OK, MO, LA) are a political risk for AI power and utility stocks."
+        "Rates: October Fed hike 13.5% (down 14 pts in a day), December hike 78.5%. Two hikes in total for 2026 is the most likely outcome (67.5%).",
+        "Bonds: odds of the 10-year Treasury yield hitting 5.4% this year collapsed from ~66% to 37.5% over the week, so markets see yields near a peak.",
+        "Oil: WTI $100 in October 62% (up 30 pts this week); $85 only 20% (down 43 this week). Hormuz traffic back to normal by year-end: 11.5%.",
+        "Largest company at year-end: Nvidia 69.5% (up 5 pts today), Apple 29% (down 5 today, still up 19 this week).",
+        "Gold reaching $5,000 by year-end fell 8 pts to 13%. The appetite for safe havens is cooling."
       ]
     },
     {
       "title": "Wars & geopolitics",
       "bullets": [
-        "Israel–Iran ceasefire holding through Dec 31: 50% (down 10 pts this week, down 14 this month).",
-        "US invades Iran before 2027: 16.5%. NATO–Russia military clash by year-end: 25.5%.",
-        "Russia–Ukraine peace talks by Oct 31 fell 19 pts to ~10%.",
-        "Houthis take Aden by year-end: 25.5%. Bab el-Mandeb (Red Sea entrance) closed: 15.5%."
+        "Israel–Iran ceasefire through Nov 30: 57.5% (down 5 pts today). The ceasefire is fine in the short term, but the odds fade further out.",
+        "US invades Iran before 2027: 15.5%. NATO–Russia military clash by year-end: 23.5% (down 2).",
+        "Houthis losing Perim Island (Red Sea) by Oct 31 fell 7 pts to 10.5%, so the Red Sea standoff looks set to continue."
       ]
     },
     {
       "title": "Elections that move markets",
       "bullets": [
-        "Brazil runoff (Oct 25): Flávio Bolsonaro 75%, but Lula gained 10 pts in one day. The margin market's most likely outcome is a race decided by under 4 points. Watch the Brazilian real, the Ibovespa and the EWZ fund.",
-        "Israel (~Oct 27): Eizenkot 49% to be prime minister, Netanyahu 27.5% and falling.",
-        "US midterms (Nov 3): Democrats take the House 90%, Democrats take both chambers 62.5%."
+        "Brazil runoff (Oct 25): Bolsonaro 78%, Lula 21.5%. A Bolsonaro win by under 4 points is the most likely result (40.5%, up 18 this week). About $63k of large bets went against Lula today.",
+        "France 2027: Le Pen 46% to win (up 5 this week), 88.5% to make the runoff.",
+        "US midterms (Nov 3): Democrats take both chambers 62.5%. Large buys today: $51k on Democrats taking the House (91¢) and $48k on Democrats taking the Senate (64¢)."
       ]
     },
     {
       "title": "Everyday life",
       "bullets": [
-        "US gas is around $4.30–4.50, with even odds of hitting $4.50 by the end of October.",
-        "The US economy is priced as 'overheating' at year-end (74%), with recession odds only 7.5%.",
-        "US measles cases above 6,000 this year: 76%."
+        "Inflation is running hot: October CPI is priced at 3.7%, mostly because of energy. Expect gas to stay above $4.",
+        "Mortgage and loan rates: one more Fed hike is very likely by December, so variable-rate borrowing costs should edge up.",
+        "Recession odds are still low (about 7.5%), and markets see the economy as running hot rather than cooling."
       ]
     }
   ],
   "dates": [
-    {
-      "date": "2026-10-25",
-      "label": "Brazil presidential runoff"
-    },
-    {
-      "date": "2026-10-27",
-      "label": "Israel election"
-    },
-    {
-      "date": "2026-10-29",
-      "label": "Fed decision"
-    },
-    {
-      "date": "2026-11-03",
-      "label": "US midterms"
-    },
-    {
-      "date": "2026-11-11",
-      "label": "US CPI (October)"
-    },
-    {
-      "date": "2026-12-10",
-      "label": "Fed decision"
-    }
+    { "date": "2026-10-25", "label": "Brazil presidential runoff" },
+    { "date": "2026-10-27", "label": "Israel election" },
+    { "date": "2026-10-29", "label": "Fed decision" },
+    { "date": "2026-11-03", "label": "US midterms" },
+    { "date": "2026-11-11", "label": "US CPI (October)" },
+    { "date": "2026-12-10", "label": "Fed decision" }
   ]
 }
