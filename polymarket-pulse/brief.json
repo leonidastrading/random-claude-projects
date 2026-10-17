@@ -1,74 +1,73 @@
 {
-  "date": "2026-10-16",
-  "headline": "The Fed is expected to hold in October; oil is still near $100",
-  "summary": "Overnight, traders dropped bets on an October Fed rate hike (now 13.5%, down 14 pts) but still expect one in December (78.5%). Oil eased from last night's peak but is still pricing a strong chance of $100. Large bets went on the US–Iran ceasefire holding, diplomacy over Ukraine is fading fast, and money is moving from Anthropic to SpaceX in the IPO race.",
+  "date": "2026-10-17",
+  "headline": "Oil is now almost certain to hit $100 this month",
+  "summary": "Overnight, odds of WTI oil reaching $100 in October jumped to 89%, and $105 is now a coin flip. Rate expectations didn't change (no October hike, December hike likely). Netanyahu's chances keep slipping ten days before Israel votes, Anthropic's valuation odds cooled sharply, and Russia–Ukraine diplomacy is all but priced out for 2026.",
   "takeaways": [
     {
-      "lead": "The Fed is now expected to hold in October.",
-      "text": "No change at the Oct 29 meeting is 86.5%, up 15 pts in a day ($43M market). Large traders added about $57k to 'no change'. A December hike is still 78.5%, so this is a delay, not a turn toward cuts."
+      "lead": "Oil is about to hit $100.",
+      "text": "WTI touching $100 this month is now 89%, up 27 pts in a day and 52 this week. $105 is 47% (up 21) and $110 is 21% (up 11). A drop back below $90 fell 21 pts to 29%. An all-time high by March is still only 21.5%, so traders see a spike, not a blowout."
     },
     {
-      "lead": "Oil cooled off a bit, but $100 is still the base case.",
-      "text": "WTI hitting $100 this month is 62%, down from 70% last night but still up 18 pts on the day. Military action against the Saudi East-West pipeline by Oct 31 fell 10 pts to 28.5% (thin $126k market)."
+      "lead": "Netanyahu is losing ground fast.",
+      "text": "Eizenkot as next prime minister is 49.8% (up 8 pts this week), and Netanyahu is down to 28.5% (down 7). About $50k of large bets went against Netanyahu overnight. Likud winning fewer than 20 seats rose 6 pts to 23%. Israel votes Oct 27."
     },
     {
-      "lead": "Large bets say the ceasefire holds for now.",
-      "text": "About $100k of large bets went on the US–Iran ceasefire lasting through Oct 16, Oct 31 and beyond. Through Oct 18 rose 6 pts to 96%, and through the Nov 3 midterms is 77.5%. The blockade stays, though: it ending by Oct 31 is only 5.5%."
+      "lead": "Anthropic's valuation hype is cooling.",
+      "text": "Anthropic worth $2.5T+ by year-end fell 7 pts today to 23.5% (down 23 this week). An IPO by Dec 15 fell 7 pts to 60.5%, and 'IPO closes above $1.8T' dropped 19 pts to 47%. SpaceX holds 63% as 2026's biggest IPO."
     },
     {
-      "lead": "SpaceX is overtaking Anthropic in the IPO race.",
-      "text": "SpaceX as 2026's largest IPO is 64%, up 13 pts today and 21 this week. Anthropic fell 9 pts to 37%. Musk momentum is spilling over: a new market on the Tesla Roadster doing 0–60 mph in under 1 second jumped 76 pts to 95.5%, and about $190k of large bets went on the Roadster 'flying'."
+      "lead": "Ukraine peace is priced out for 2026.",
+      "text": "Russia–Ukraine peace talks by Dec 31 are 35.5% (down 29 pts this week), and by Nov 30 are 20.5% (down 28). Trump meeting Putin by year-end is still 81% (up 5), so a summit doesn't mean a deal."
     },
     {
-      "lead": "Netanyahu's party is sliding before the Oct 27 vote.",
-      "text": "Likud winning the most seats is down to 31.5% (down 19 pts this week). Yashar is at 67.5%. Eizenkot is the favorite for prime minister at 47%, and Netanyahu is at 30.5%."
+      "lead": "A Supreme Court opening is getting likelier.",
+      "text": "Justice Alito announcing his retirement by June 2027 jumped 15 pts in a day to 58.5% (thin $110k market). A vacancy before the midterms would matter for the Senate fight."
     },
     {
-      "lead": "Golf: a LIV shutdown is now a coin flip.",
-      "text": "LIV Golf announcing a shutdown in 2026 jumped 14 pts today to 48%. It's a thin market ($77k), so treat it as a rumor signal, not a fact."
+      "lead": "Measles is spiking (thin, but a real daily-life signal).",
+      "text": "More than 4,800 US cases by Oct 31 jumped 38 pts in a day to 69% (thin $26k market). More than 6,000 for the year is 87.5% (up 14). Worth checking vaccination status before holiday travel."
     }
   ],
   "sections": [
     {
       "title": "What's new today",
       "bullets": [
-        "October US inflation (CPI) at 3.7% year-over-year is now 88.5% likely (up 32 pts; thin $12k market). The report is out Nov 11.",
-        "Hopes for Russia–Ukraine peace talks are fading fast: talks by Dec 31 fell 24 pts this week to 39%, and by Nov 30 fell 24 pts to 24.5%.",
-        "Press Secretary Katie Zacharia out by year-end: 38.5% (up 12 pts in a day; new $332k market)."
+        "A new market on the next White House Press Secretary: Scott Jennings 17.5%, Anna Kelly 15% (thin $77k market). An announcement by Nov 30 is 56.5%.",
+        "2026 is now 78.5% likely to be the hottest year on record (up 21 pts this week, $3.8M market).",
+        "October US inflation (CPI) at 3.7% is 81% likely and core CPI at 2.6% is 67% (thin markets). The report is out Nov 11."
       ]
     },
     {
       "title": "Trading signals",
       "bullets": [
-        "Rates: October Fed hike 13.5% (down 14 pts in a day), December hike 78.5%. Two hikes in total for 2026 is the most likely outcome (67.5%).",
-        "Bonds: odds of the 10-year Treasury yield hitting 5.4% this year collapsed from ~66% to 37.5% over the week, so markets see yields near a peak.",
-        "Oil: WTI $100 in October 62% (up 30 pts this week); $85 only 20% (down 43 this week). Hormuz traffic back to normal by year-end: 11.5%.",
-        "Largest company at year-end: Nvidia 69.5% (up 5 pts today), Apple 29% (down 5 today, still up 19 this week).",
-        "Gold reaching $5,000 by year-end fell 8 pts to 13%. The appetite for safe havens is cooling."
+        "Oil: WTI $100 in October 89% (up 52 pts this week), $105 47%, $110 21%. Energy stocks and tankers benefit; airlines and trucking pay more for fuel.",
+        "Fed: no change on Oct 29 is 86.5% (steady); a December hike is 76.5% (down 2). The bond market still sees yields near a peak: the 10-year reaching 5.4% this year is 36.5% (down 30 pts this week).",
+        "Largest company at year-end: Nvidia 70.5%, Apple 28% (Apple gave back some of last week's surge).",
+        "Military action against the Saudi East-West pipeline by Oct 31 rose 4 pts to 32% (thin $138k market). A hit would push oil past $110."
       ]
     },
     {
       "title": "Wars & geopolitics",
       "bullets": [
-        "Israel–Iran ceasefire through Nov 30: 57.5% (down 5 pts today). The ceasefire is fine in the short term, but the odds fade further out.",
-        "US invades Iran before 2027: 15.5%. NATO–Russia military clash by year-end: 23.5% (down 2).",
-        "Houthis losing Perim Island (Red Sea) by Oct 31 fell 7 pts to 10.5%, so the Red Sea standoff looks set to continue."
+        "Israel–Iran ceasefire: very likely through Oct 31 (84.5%), shakier further out (Nov 15: 68%, down 7 pts this week). $37k of large bets went on it holding through Oct 18.",
+        "The US–Iran blockade ending by year-end is 34% (down 12 pts this week). Hormuz stays effectively closed.",
+        "US–Cuba military clash in 2026: 13.5% (down 4)."
       ]
     },
     {
       "title": "Elections that move markets",
       "bullets": [
-        "Brazil runoff (Oct 25): Bolsonaro 78%, Lula 21.5%. A Bolsonaro win by under 4 points is the most likely result (40.5%, up 18 this week). About $63k of large bets went against Lula today.",
-        "France 2027: Le Pen 46% to win (up 5 this week), 88.5% to make the runoff.",
-        "US midterms (Nov 3): Democrats take both chambers 62.5%. Large buys today: $51k on Democrats taking the House (91¢) and $48k on Democrats taking the Senate (64¢)."
+        "Brazil runoff (Oct 25): Bolsonaro 77% (down 12 pts this week), Lula 23.5% (up 12). About $90k of large bets traded on Bolsonaro in both directions, so the market is still split.",
+        "US midterms (Nov 3): Democrats take both chambers 62.5%, Republicans keep the Senate 27.5%. Large bets: $30k+ on Democrats taking the House at 91¢, and $32k against a Republican Senate.",
+        "Israel (Oct 27): Eizenkot 49.8%, Netanyahu 28.5%."
       ]
     },
     {
       "title": "Everyday life",
       "bullets": [
-        "Inflation is running hot: October CPI is priced at 3.7%, mostly because of energy. Expect gas to stay above $4.",
-        "Mortgage and loan rates: one more Fed hike is very likely by December, so variable-rate borrowing costs should edge up.",
-        "Recession odds are still low (about 7.5%), and markets see the economy as running hot rather than cooling."
+        "Expect higher gas and heating costs: oil is very likely to hit $100 this month, and US inflation is running about 3.7%.",
+        "Measles: more than 6,000 US cases this year is 87.5% likely. Check vaccination status before travel.",
+        "2026 is very likely the hottest year on record (78.5%), which tends to mean higher summer power bills and insurance costs."
       ]
     }
   ],
