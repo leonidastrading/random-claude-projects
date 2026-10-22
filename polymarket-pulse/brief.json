@@ -1,73 +1,73 @@
 {
-  "date": "2026-10-21",
-  "headline": "Oil eases from $100 and ceasefires firm up, but a Canadian rate hike is now likely",
-  "summary": "After touching $100, the odds of oil running to $105 fell 10 pts and US–Iran ceasefire odds bounced. Canada's central bank is now 72% likely to raise rates next week. Big money is fighting over the US midterms, Google pulled ahead in the AI model race, and Bolsonaro regained ground four days before Brazil votes.",
+  "date": "2026-10-22",
+  "headline": "Ukraine peace-talk odds surge while the Iran ceasefires crack",
+  "summary": "Odds of Russia–Ukraine peace talks by year-end jumped 28 pts to 72.5%. At the same time, the Israel–Iran and US–Iran ceasefires lost 8–12 pts across later dates, and Iran fully closing its airspace by year-end jumped to 41%. Anthropic's IPO now looks likely in November, Canada is 83% to raise rates next week, and long-shot whales doubled down on a Republican midterm sweep.",
   "takeaways": [
     {
-      "lead": "Oil is taking a breather after $100.",
-      "text": "WTI reaching $105 this month fell 10 pts in a day to 47.5%, and $110 fell 6 to 18.5%. The US–Iran ceasefire bounced: through Oct 31 is 81.5% (up 3), and through Oct 28 is 85.5% (up 4). An Iran–Oman Hormuz management deal by Nov 30 rose 6 pts to 27%."
+      "lead": "Ukraine peace talks are suddenly likely.",
+      "text": "Russia–Ukraine peace talks by Nov 30 jumped 31 pts in a day to 63%, and by Dec 31 jumped 28 to 72.5% ($456k market). An actual ceasefire is slower: about 60–70% by mid-to-late 2027. Russia's central bank cutting rates this month rose 14 pts to 20.5% (thin market). One trader also sold $51k of 'Putin stays through 2026', a long-shot bet (2.1%)."
     },
     {
-      "lead": "Canada will probably raise rates next week.",
-      "text": "A Bank of Canada hike on Oct 28 jumped another 19 pts to 72% (up 56 this week; $375k market). The US Fed is still expected to hold on Oct 29 (88.5%, up 3) but hike in December (77.5%)."
+      "lead": "The Iran ceasefires are cracking.",
+      "text": "The US–Iran ceasefire through Oct 31 fell 8 pts to 73.5%, and through Nov 8 fell 10 to 59.5%. Israel–Iran through Nov 15 fell 9 to 59.5%, and through Nov 30 fell 12 to 48%. Iran fully closing its airspace by year-end jumped 12 pts to 41% ($10M market), often a sign of expected strikes. Some large money still bet $38k on the US–Iran truce holding through Oct 24."
     },
     {
-      "lead": "Whales are battling over the midterms.",
-      "text": "One trader put $50k on a Republican sweep at just 9¢ (a long-shot bet that pays about 11x). Others put about $70k on a Democratic sweep (63.5%). There's also $50k on Republicans winning Texas's Senate seat, and Democrat Amy Acton jumped 7 pts to 78.5% for Ohio governor."
+      "lead": "Anthropic's IPO is now pencilled in for November.",
+      "text": "An Anthropic IPO by Nov 30 rose 9 pts to 72%, and by Dec 31 rose 9 to 87.5% (up 13 this week). 'IPO in November' is 72% (thin market). Celonis listing before 2027 also jumped 38 pts to 46% (thin $211k market)."
     },
     {
-      "lead": "Google is pulling ahead in AI.",
-      "text": "Google as the best AI model at the end of October rose 9 pts to 82% ($3M market), and Anthropic fell 8 to 15%. Anthropic's next model (Fable 5.2) by Oct 24 dropped 27 pts to 17% (thin market). OpenAI reaching a $1.25T valuation by year-end is 93.5% (up 11)."
+      "lead": "Long-shot whales doubled down on a Republican sweep.",
+      "text": "About $97k more went on Republicans winning both chambers at 9¢, on top of $50k yesterday. The market still says only 7.5%, and a Democratic sweep rose 4 pts to 67.5%. About $86k of large bets went on Republicans winning Texas's Senate seat at about 34¢."
     },
     {
-      "lead": "Bolsonaro regained ground before Sunday's vote.",
-      "text": "Flávio Bolsonaro rose 4 pts to 80%, and Lula fell 3 to 19.5%. About $93k of large bets went his way (including $41k against Lula) versus about $32k against him."
+      "lead": "Canada's hike is almost locked in.",
+      "text": "A Bank of Canada hike on Oct 28 rose another 11 pts to 83% (up 64 this week). The US Fed is still expected to hold on Oct 29 (88.5%, with $89k of large bets on it) and hike in December (78.5%)."
     },
     {
-      "lead": "Overlooked: a hantavirus bet (thin signal).",
-      "text": "Two traders sold $48k of 'no hantavirus pandemic in 2026', a quiet bet that the risk is higher than the market's 2.4%. It's still very unlikely, but worth noticing. Separately, FDA approval of a skin cancer vaccine by end-2027 fell 14 pts to 52.5% (thin $193k market)."
+      "lead": "Overlooked: big bets on Bitcoin and data centers.",
+      "text": "One trader put $229k on Bitcoin NOT dipping to $50k this year. Another put about $102k on Indiana banning new data centers by end-2027, a contrarian bet on a 14.5% market. Data center bans would hit AI power demand and utility stocks."
     }
   ],
   "sections": [
     {
       "title": "What's new today",
       "bullets": [
-        "Odds of a French state of emergency by year-end fell 4 pts to 13% ($203k market), so the unrest scare is easing.",
-        "Russia capturing the Ukrainian town of Vodianske by year-end rose 6 pts to 39% (thin market). Peace talks by Dec 31 also rose 7 pts to 43.5%, so fighting and talking are both priced up.",
-        "Toronto's mayoral race is tightening: Brad Bradford rose 10 pts to 35.5% against Olivia Chow's 64.5%."
+        "Serbia: about $145k of large bets went on the student list winning the most seats at about 34¢. Vučić is still the favorite at 67.5%.",
+        "Israel: Bennett jumped 6 pts to 18% as next prime minister. Eizenkot 49.5% (down 2), Netanyahu 26.5%.",
+        "Toronto's mayoral race is now a coin flip: Chow 49% (down 15 today), Bradford 49.5% (up 14)."
       ]
     },
     {
       "title": "Trading signals",
       "bullets": [
-        "Oil: $100 is done; $105 this month 47.5% (down 10), $110 18.5%. A pullback is likely if ceasefire headlines keep improving.",
-        "Rates: Canada hike 72%, Fed hold 88.5%, Fed December hike 77.5%. A $22k bet said the Fed won't cut in October.",
-        "Largest company at year-end: Nvidia 74.5% (up 3), Apple 19.8% (down 6).",
-        "Gold: a $16k bet said gold won't hit $6,000 by December."
+        "Oil: after touching $100, WTI reaching $105 this month is 42% (down 5), and $110 16%. Ceasefire trouble could quickly reverse that.",
+        "Rates: Canada hike 83%, Fed hold 88.5%, Fed December hike 78.5%.",
+        "AI and tech: the Anthropic IPO is likely in November (72% by Nov 30). Apple as the largest company at year-end rose 8 pts to 28%.",
+        "Bitcoin: large bets of $229k against a dip to $50k and $21k against reaching $110k mean traders expect a range for the rest of the year."
       ]
     },
     {
       "title": "Wars & geopolitics",
       "bullets": [
-        "US–Iran ceasefire through Oct 31: 81.5% (up 3); Israel–Iran through Nov 30: 60.5% (flat).",
-        "About $34k of large bets went on no Iran leadership change by year-end, and $13k on Hormuz traffic not returning to normal.",
-        "Xi meeting Japan's PM Takaichi by year-end rose 6 pts to 77%, a sign of easing China–Japan tension."
+        "Israel–Iran ceasefire through Dec 31 fell 9 pts to 37.5% ($1.2M traded on that date).",
+        "Iran full airspace closure by year-end: 41% (up 12). US invades Iran before 2027: 15.5%, with about $35k of large bets on 'no'.",
+        "Russia–Ukraine: talks by year-end 72.5% (up 28). A ceasefire by mid-2027 is about 60%."
       ]
     },
     {
       "title": "Elections that move markets",
       "bullets": [
-        "Brazil (Sunday, Oct 25): Bolsonaro 80% (up 4), Lula 19.5%.",
-        "Israel (Oct 27): Eizenkot 51.5% (up 2), Netanyahu 27.5% (down 2). A $25k bet said Likud won't get 30–34 seats.",
-        "US midterms (Nov 3): Democrats take both chambers 63.5%; Democrats win the House about 92%. Ohio governor: Acton (D) 78.5%."
+        "Brazil (Sunday, Oct 25): Bolsonaro 78.5% (down 2), Lula 21.5%. About $33k more of large bets went on Bolsonaro.",
+        "Israel (Oct 27): Eizenkot 49.5%, Netanyahu 26.5%, Bennett 18% (up 6).",
+        "US midterms (Nov 3): Democratic sweep 67.5% (up 4), Republican Senate with Democratic House 23.5% (down 4). Large bets: $68k on Democrats taking the House."
       ]
     },
     {
       "title": "Everyday life",
       "bullets": [
-        "Gas: oil touched $100 but is easing. Pump prices may plateau if the ceasefires hold.",
-        "Canadians with variable mortgages: a hike next week is now 72% likely.",
-        "US loans: no Fed cut is coming this year; a December hike is 77.5% likely."
+        "Gas: oil is off its peak, but the Iran ceasefire risk is rising again, so don't expect pump prices to fall yet.",
+        "Canadian borrowers: a rate hike next week is 83% likely.",
+        "2026 is now 85% likely to be the hottest year on record (up 14 pts this week)."
       ]
     }
   ],
